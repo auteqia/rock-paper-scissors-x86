@@ -37,7 +37,7 @@ The computer will make a random choice each turn. The rules to determine the win
 - **Paper** beats **Rock**
 - If both choices are the same, it’s a tie.
 
-Have fun !v
+Have fun !
 # Ameliorations 
 
  - Scoreboard
